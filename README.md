@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://iili.io/20ESap4.jpg" alt="Lazy Princess Logo">
+  <img src="https://i.postimg.cc/gJNsT20C/Letmefilter-bot-1.png" alt="LET ME FILTER" width="450">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> LET ME FILTER </b>
 </h1>
 
 ## ⚡️Features
